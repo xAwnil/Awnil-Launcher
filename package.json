@@ -1,7 +1,7 @@
 {
     "name": "Awnil-Launcher",
     "preductname": "Awnil Launcher",
-    "version": "1.1.1",
+    "version": "1.1.0",
     "description": "Launcher Customizer",
     "main": "src/app.js",
     "author": "Awnil",
