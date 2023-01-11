@@ -101,7 +101,7 @@ class Home {
 
     async integrantesbtn() {
         document.querySelector('.integrantes').addEventListener('click', async() => {
-            require('electron').shell.openExternal("https://website3759719.nicepage.io/?version=fb24a348-c9cc-42f8-9d4f-7842ae5edcf3&uid=32c8f429-af3c-459c-9680-2651737848a2")
+            require('electron').shell.openExternal("https://nacionpaella3.nicepage.io/")
         })}
 
     async initLaunch() {
